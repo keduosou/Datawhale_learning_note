@@ -18,13 +18,13 @@
 
 #### 3. 熟悉比赛的评分函数
 
-![评分函数](https://github.com/keduosou/Datawhale_learning_note/blob/master/%E8%AF%84%E5%88%86%E5%87%BD%E6%95%B0.jpeg)  
-拟合优度R方，应该和计量经济学里的R方是类似的，
+* ![评分函数](https://github.com/keduosou/Datawhale_learning_note/blob/master/%E8%AF%84%E5%88%86%E5%87%BD%E6%95%B0.jpeg)  
+拟合优度R方，应该和计量经济学里的R方是类似的。
 
 
-![总离差平方和](http://latex.codecogs.com/gif.latex?TSS=RSS+ESS)
+* ![总离差平方和](http://latex.codecogs.com/gif.latex?TSS=RSS+ESS)
 即总离差平方和可分解为回归平方和残差平方和两部分。
 
 
-![拟合优度](http://latex.codecogs.com/gif.latex?R^2=ESS/TSS=1-RSS/TSS)
+* ![拟合优度](http://latex.codecogs.com/gif.latex?R^2=ESS/TSS=1-RSS/TSS)
 回归平方和反映了总离差平方和中可由样本回归解释的部分，它越大，残差平方和越小，表明你和程度越好。
