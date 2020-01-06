@@ -21,4 +21,10 @@
 
 拟合优度R方，应该和计量经济学里的R方是类似的，
 
-![拟合优度](http://latex.codecogs.com/gif.latex?R^2=ESS/TSS
+![总离差平方和](http://latex.codecogs.com/gif.latex?TSS=RSS+ESS)
+
+即总离差平方和可分解为回归平方和残差平方和两部分。
+
+![拟合优度](http://latex.codecogs.com/gif.latex?R^2=ESS/TSS=1-RSS/TSS)
+
+回归平方和反映了总离差平方和中可由样本回归解释的部分，它越大，残差平方和越小，表明你和程度越好。
