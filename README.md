@@ -17,6 +17,7 @@
 
 
 #### 3. 熟悉比赛的评分函数
+
 ![评分函数](https://github.com/keduosou/Datawhale_learning_note/blob/master/%E8%AF%84%E5%88%86%E5%87%BD%E6%95%B0.jpeg)  
 拟合优度R方，应该和计量经济学里的R方是类似的。
 
